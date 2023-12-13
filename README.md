@@ -1,5 +1,7 @@
 # pickingcolor
 
+https://github.com/kainatnaeem/Flutter-Color-Picker/assets/54583829/46f69329-19bb-4154-bd9f-b57f550079a1
+
 A new Flutter project.
 
 ## Getting Started
